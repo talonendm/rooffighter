@@ -70,7 +70,7 @@ function draw() {
     background(0);
     textSize(32);
     fill(255, 215, 0);
-    text(winner + " Wins!", width / 2, height / 2);
+    text(winner + " Wins !", width / 2, height / 2);
   }
 }
 
